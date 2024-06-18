@@ -1,3 +1,9 @@
 #table {
   border : 1pc, solid
 }
+body{
+  background-color: hsl(226, 82%, 68%);
+}
+
+table { background-colour: #e725b7; }
+
